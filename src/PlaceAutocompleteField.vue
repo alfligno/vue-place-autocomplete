@@ -5,7 +5,6 @@
             v-bind-events
             v-bind="$attrs"
             :label="label"
-            :errors="errors"
             :value="value"
             :custom="custom"
             class="form-control"
